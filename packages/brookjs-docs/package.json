@@ -15,7 +15,7 @@
     "docz-theme-default": "^1.2.0",
     "gatsby-link": "^2.2.30",
     "gatsby-plugin-emotion": "^4.2.0",
-    "gatsby-react-router-scroll": "^2.1.23",
+    "gatsby-react-router-scroll": "^4.9.0",
     "gatsby-remark-embedded-codesandbox": "github:mattrosno/gatsby-remark-embedded-codesandbox#release",
     "gatsby-remark-responsive-iframe": "^2.3.0",
     "gatsby-theme-docz": "^2.2.0",
