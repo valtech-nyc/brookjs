@@ -34,7 +34,7 @@
     "@storybook/components": "^5.0.0",
     "@storybook/core-events": "^5.0.0",
     "@storybook/react": "^5.0.0",
-    "@storybook/theming": "^5.0.0",
+    "@storybook/theming": "^6.3.4",
     "brookjs-silt": "^1.0.0-beta.17",
     "jest-kefir": "^2.3.0",
     "kefir-test-utils": "^1.0.0",
